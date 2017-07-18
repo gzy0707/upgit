@@ -1,0 +1,1158 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A3A598F71F1AE7E700074138 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A598F61F1AE7E700074138 /* main.m */; };
+		A3A599041F1AEF1600074138 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A599031F1AEF1600074138 /* main.m */; };
+		A3A5991A1F1B001300074138 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A599191F1B001300074138 /* main.m */; };
+		A3A599251F1B072600074138 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A599241F1B072600074138 /* main.m */; };
+		A3A599301F1B163900074138 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A5992F1F1B163900074138 /* main.m */; };
+		A3A5993B1F1B2B0F00074138 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A5993A1F1B2B0F00074138 /* main.m */; };
+		A3A599461F1B3AF200074138 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A599451F1B3AF200074138 /* main.m */; };
+		A3A599511F1B3FEE00074138 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A599501F1B3FEE00074138 /* main.m */; };
+		A3A599571F1B436900074138 /* Clip.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A599561F1B436900074138 /* Clip.m */; };
+		A3A5995A1F1B43D600074138 /* Gun.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A599591F1B43D600074138 /* Gun.m */; };
+		A3A5995D1F1B44DC00074138 /* Soldier.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A5995C1F1B44DC00074138 /* Soldier.m */; };
+		A3A599601F1B45D000074138 /* Shop.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A5995F1F1B45D000074138 /* Shop.m */; };
+		A3A599731F1B4DDB00074138 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A599721F1B4DDB00074138 /* main.m */; };
+		A3A599791F1B4E3900074138 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A599781F1B4E3900074138 /* Person.m */; };
+		A3A5997C1F1B53DD00074138 /* iPhone.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A5997B1F1B53DD00074138 /* iPhone.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		A3A598F11F1AE7E700074138 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		A3A598FF1F1AEF1600074138 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		A3A5990A1F1AF61700074138 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		A3A599151F1B001300074138 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		A3A599201F1B072600074138 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		A3A5992B1F1B163800074138 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		A3A599361F1B2B0F00074138 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		A3A599411F1B3AF200074138 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		A3A5994C1F1B3FEE00074138 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		A3A599631F1B4A2700074138 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		A3A5996E1F1B4DDB00074138 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		A3A5997F1F1B583000074138 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		A3A598F31F1AE7E700074138 /* day2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = day2; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3A598F61F1AE7E700074138 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A3A599011F1AEF1600074138 /* NSString的使用 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "NSString的使用"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3A599031F1AEF1600074138 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A3A5990C1F1AF61700074138 /* 练习 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "练习"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3A599171F1B001300074138 /* 结构体作为对象的属性 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "结构体作为对象的属性"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3A599191F1B001300074138 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A3A599221F1B072600074138 /* 对象作为方法的参数传递 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "对象作为方法的参数传递"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3A599241F1B072600074138 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A3A5992D1F1B163800074138 /* #pragma mark基本使用 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "#pragma mark基本使用"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3A5992F1F1B163900074138 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A3A599381F1B2B0F00074138 /* 对象作为方法的参数连续传递 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "对象作为方法的参数连续传递"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3A5993A1F1B2B0F00074138 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A3A599431F1B3AF200074138 /* 对象作为返回值类型 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "对象作为返回值类型"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3A599451F1B3AF200074138 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A3A5994E1F1B3FEE00074138 /* OC多文件开发 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "OC多文件开发"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3A599501F1B3FEE00074138 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A3A599551F1B431B00074138 /* Clip.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Clip.h; sourceTree = "<group>"; };
+		A3A599561F1B436900074138 /* Clip.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Clip.m; sourceTree = "<group>"; };
+		A3A599581F1B43D600074138 /* Gun.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Gun.h; sourceTree = "<group>"; };
+		A3A599591F1B43D600074138 /* Gun.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Gun.m; sourceTree = "<group>"; };
+		A3A5995B1F1B44DC00074138 /* Soldier.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Soldier.h; sourceTree = "<group>"; };
+		A3A5995C1F1B44DC00074138 /* Soldier.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Soldier.m; sourceTree = "<group>"; };
+		A3A5995E1F1B45D000074138 /* Shop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Shop.h; sourceTree = "<group>"; };
+		A3A5995F1F1B45D000074138 /* Shop.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Shop.m; sourceTree = "<group>"; };
+		A3A599651F1B4A2700074138 /* fight */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = fight; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3A599701F1B4DDB00074138 /* 匿名对象 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "匿名对象"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3A599721F1B4DDB00074138 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A3A599771F1B4E3900074138 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		A3A599781F1B4E3900074138 /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		A3A5997A1F1B53DD00074138 /* iPhone.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iPhone.h; sourceTree = "<group>"; };
+		A3A5997B1F1B53DD00074138 /* iPhone.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iPhone.m; sourceTree = "<group>"; };
+		A3A599811F1B583000074138 /* 修改项目末班 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "修改项目末班"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A3A598F01F1AE7E700074138 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A598FE1F1AEF1600074138 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A599091F1AF61700074138 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A599141F1B001300074138 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A5991F1F1B072600074138 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A5992A1F1B163800074138 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A599351F1B2B0F00074138 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A599401F1B3AF200074138 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A5994B1F1B3FEE00074138 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A599621F1B4A2700074138 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A5996D1F1B4DDB00074138 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A5997E1F1B583000074138 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A3A598EA1F1AE7E700074138 = {
+			isa = PBXGroup;
+			children = (
+				A3A598F51F1AE7E700074138 /* day2 */,
+				A3A599021F1AEF1600074138 /* NSString的使用 */,
+				A3A599181F1B001300074138 /* 结构体作为对象的属性 */,
+				A3A599231F1B072600074138 /* 对象作为方法的参数传递 */,
+				A3A5992E1F1B163900074138 /* #pragma mark基本使用 */,
+				A3A599391F1B2B0F00074138 /* 对象作为方法的参数连续传递 */,
+				A3A599441F1B3AF200074138 /* 对象作为返回值类型 */,
+				A3A5994F1F1B3FEE00074138 /* OC多文件开发 */,
+				A3A599711F1B4DDB00074138 /* 匿名对象 */,
+				A3A598F41F1AE7E700074138 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A3A598F41F1AE7E700074138 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A3A598F31F1AE7E700074138 /* day2 */,
+				A3A599011F1AEF1600074138 /* NSString的使用 */,
+				A3A5990C1F1AF61700074138 /* 练习 */,
+				A3A599171F1B001300074138 /* 结构体作为对象的属性 */,
+				A3A599221F1B072600074138 /* 对象作为方法的参数传递 */,
+				A3A5992D1F1B163800074138 /* #pragma mark基本使用 */,
+				A3A599381F1B2B0F00074138 /* 对象作为方法的参数连续传递 */,
+				A3A599431F1B3AF200074138 /* 对象作为返回值类型 */,
+				A3A5994E1F1B3FEE00074138 /* OC多文件开发 */,
+				A3A599651F1B4A2700074138 /* fight */,
+				A3A599701F1B4DDB00074138 /* 匿名对象 */,
+				A3A599811F1B583000074138 /* 修改项目末班 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A3A598F51F1AE7E700074138 /* day2 */ = {
+			isa = PBXGroup;
+			children = (
+				A3A598F61F1AE7E700074138 /* main.m */,
+			);
+			path = day2;
+			sourceTree = "<group>";
+		};
+		A3A599021F1AEF1600074138 /* NSString的使用 */ = {
+			isa = PBXGroup;
+			children = (
+				A3A599031F1AEF1600074138 /* main.m */,
+			);
+			path = "NSString的使用";
+			sourceTree = "<group>";
+		};
+		A3A599181F1B001300074138 /* 结构体作为对象的属性 */ = {
+			isa = PBXGroup;
+			children = (
+				A3A599191F1B001300074138 /* main.m */,
+			);
+			path = "结构体作为对象的属性";
+			sourceTree = "<group>";
+		};
+		A3A599231F1B072600074138 /* 对象作为方法的参数传递 */ = {
+			isa = PBXGroup;
+			children = (
+				A3A599241F1B072600074138 /* main.m */,
+			);
+			path = "对象作为方法的参数传递";
+			sourceTree = "<group>";
+		};
+		A3A5992E1F1B163900074138 /* #pragma mark基本使用 */ = {
+			isa = PBXGroup;
+			children = (
+				A3A5992F1F1B163900074138 /* main.m */,
+			);
+			path = "#pragma mark基本使用";
+			sourceTree = "<group>";
+		};
+		A3A599391F1B2B0F00074138 /* 对象作为方法的参数连续传递 */ = {
+			isa = PBXGroup;
+			children = (
+				A3A5993A1F1B2B0F00074138 /* main.m */,
+			);
+			path = "对象作为方法的参数连续传递";
+			sourceTree = "<group>";
+		};
+		A3A599441F1B3AF200074138 /* 对象作为返回值类型 */ = {
+			isa = PBXGroup;
+			children = (
+				A3A599451F1B3AF200074138 /* main.m */,
+			);
+			path = "对象作为返回值类型";
+			sourceTree = "<group>";
+		};
+		A3A5994F1F1B3FEE00074138 /* OC多文件开发 */ = {
+			isa = PBXGroup;
+			children = (
+				A3A599501F1B3FEE00074138 /* main.m */,
+				A3A599551F1B431B00074138 /* Clip.h */,
+				A3A599561F1B436900074138 /* Clip.m */,
+				A3A599581F1B43D600074138 /* Gun.h */,
+				A3A599591F1B43D600074138 /* Gun.m */,
+				A3A5995B1F1B44DC00074138 /* Soldier.h */,
+				A3A5995C1F1B44DC00074138 /* Soldier.m */,
+				A3A5995E1F1B45D000074138 /* Shop.h */,
+				A3A5995F1F1B45D000074138 /* Shop.m */,
+			);
+			path = "OC多文件开发";
+			sourceTree = "<group>";
+		};
+		A3A599711F1B4DDB00074138 /* 匿名对象 */ = {
+			isa = PBXGroup;
+			children = (
+				A3A599721F1B4DDB00074138 /* main.m */,
+				A3A599771F1B4E3900074138 /* Person.h */,
+				A3A599781F1B4E3900074138 /* Person.m */,
+				A3A5997A1F1B53DD00074138 /* iPhone.h */,
+				A3A5997B1F1B53DD00074138 /* iPhone.m */,
+			);
+			path = "匿名对象";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A3A598F21F1AE7E700074138 /* day2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A3A598FA1F1AE7E700074138 /* Build configuration list for PBXNativeTarget "day2" */;
+			buildPhases = (
+				A3A598EF1F1AE7E700074138 /* Sources */,
+				A3A598F01F1AE7E700074138 /* Frameworks */,
+				A3A598F11F1AE7E700074138 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = day2;
+			productName = day2;
+			productReference = A3A598F31F1AE7E700074138 /* day2 */;
+			productType = "com.apple.product-type.tool";
+		};
+		A3A599001F1AEF1600074138 /* NSString的使用 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A3A599071F1AEF1600074138 /* Build configuration list for PBXNativeTarget "NSString的使用" */;
+			buildPhases = (
+				A3A598FD1F1AEF1600074138 /* Sources */,
+				A3A598FE1F1AEF1600074138 /* Frameworks */,
+				A3A598FF1F1AEF1600074138 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "NSString的使用";
+			productName = "NSString的使用";
+			productReference = A3A599011F1AEF1600074138 /* NSString的使用 */;
+			productType = "com.apple.product-type.tool";
+		};
+		A3A5990B1F1AF61700074138 /* 练习 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A3A599101F1AF61700074138 /* Build configuration list for PBXNativeTarget "练习" */;
+			buildPhases = (
+				A3A599081F1AF61700074138 /* Sources */,
+				A3A599091F1AF61700074138 /* Frameworks */,
+				A3A5990A1F1AF61700074138 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "练习";
+			productName = "练习";
+			productReference = A3A5990C1F1AF61700074138 /* 练习 */;
+			productType = "com.apple.product-type.tool";
+		};
+		A3A599161F1B001300074138 /* 结构体作为对象的属性 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A3A5991B1F1B001300074138 /* Build configuration list for PBXNativeTarget "结构体作为对象的属性" */;
+			buildPhases = (
+				A3A599131F1B001300074138 /* Sources */,
+				A3A599141F1B001300074138 /* Frameworks */,
+				A3A599151F1B001300074138 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "结构体作为对象的属性";
+			productName = "结构体作为对象的属性";
+			productReference = A3A599171F1B001300074138 /* 结构体作为对象的属性 */;
+			productType = "com.apple.product-type.tool";
+		};
+		A3A599211F1B072600074138 /* 对象作为方法的参数传递 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A3A599261F1B072600074138 /* Build configuration list for PBXNativeTarget "对象作为方法的参数传递" */;
+			buildPhases = (
+				A3A5991E1F1B072600074138 /* Sources */,
+				A3A5991F1F1B072600074138 /* Frameworks */,
+				A3A599201F1B072600074138 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "对象作为方法的参数传递";
+			productName = "对象作为方法的参数传递";
+			productReference = A3A599221F1B072600074138 /* 对象作为方法的参数传递 */;
+			productType = "com.apple.product-type.tool";
+		};
+		A3A5992C1F1B163800074138 /* #pragma mark基本使用 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A3A599311F1B163900074138 /* Build configuration list for PBXNativeTarget "#pragma mark基本使用" */;
+			buildPhases = (
+				A3A599291F1B163800074138 /* Sources */,
+				A3A5992A1F1B163800074138 /* Frameworks */,
+				A3A5992B1F1B163800074138 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "#pragma mark基本使用";
+			productName = "#pragma mark基本使用";
+			productReference = A3A5992D1F1B163800074138 /* #pragma mark基本使用 */;
+			productType = "com.apple.product-type.tool";
+		};
+		A3A599371F1B2B0F00074138 /* 对象作为方法的参数连续传递 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A3A5993C1F1B2B0F00074138 /* Build configuration list for PBXNativeTarget "对象作为方法的参数连续传递" */;
+			buildPhases = (
+				A3A599341F1B2B0F00074138 /* Sources */,
+				A3A599351F1B2B0F00074138 /* Frameworks */,
+				A3A599361F1B2B0F00074138 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "对象作为方法的参数连续传递";
+			productName = "对象作为方法的参数连续传递";
+			productReference = A3A599381F1B2B0F00074138 /* 对象作为方法的参数连续传递 */;
+			productType = "com.apple.product-type.tool";
+		};
+		A3A599421F1B3AF200074138 /* 对象作为返回值类型 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A3A599471F1B3AF200074138 /* Build configuration list for PBXNativeTarget "对象作为返回值类型" */;
+			buildPhases = (
+				A3A5993F1F1B3AF200074138 /* Sources */,
+				A3A599401F1B3AF200074138 /* Frameworks */,
+				A3A599411F1B3AF200074138 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "对象作为返回值类型";
+			productName = "对象作为返回值类型";
+			productReference = A3A599431F1B3AF200074138 /* 对象作为返回值类型 */;
+			productType = "com.apple.product-type.tool";
+		};
+		A3A5994D1F1B3FEE00074138 /* OC多文件开发 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A3A599521F1B3FEE00074138 /* Build configuration list for PBXNativeTarget "OC多文件开发" */;
+			buildPhases = (
+				A3A5994A1F1B3FEE00074138 /* Sources */,
+				A3A5994B1F1B3FEE00074138 /* Frameworks */,
+				A3A5994C1F1B3FEE00074138 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "OC多文件开发";
+			productName = "OC多文件开发";
+			productReference = A3A5994E1F1B3FEE00074138 /* OC多文件开发 */;
+			productType = "com.apple.product-type.tool";
+		};
+		A3A599641F1B4A2700074138 /* fight */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A3A599691F1B4A2700074138 /* Build configuration list for PBXNativeTarget "fight" */;
+			buildPhases = (
+				A3A599611F1B4A2700074138 /* Sources */,
+				A3A599621F1B4A2700074138 /* Frameworks */,
+				A3A599631F1B4A2700074138 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = fight;
+			productName = fight;
+			productReference = A3A599651F1B4A2700074138 /* fight */;
+			productType = "com.apple.product-type.tool";
+		};
+		A3A5996F1F1B4DDB00074138 /* 匿名对象 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A3A599741F1B4DDB00074138 /* Build configuration list for PBXNativeTarget "匿名对象" */;
+			buildPhases = (
+				A3A5996C1F1B4DDB00074138 /* Sources */,
+				A3A5996D1F1B4DDB00074138 /* Frameworks */,
+				A3A5996E1F1B4DDB00074138 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "匿名对象";
+			productName = "匿名对象";
+			productReference = A3A599701F1B4DDB00074138 /* 匿名对象 */;
+			productType = "com.apple.product-type.tool";
+		};
+		A3A599801F1B583000074138 /* 修改项目末班 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A3A599851F1B583000074138 /* Build configuration list for PBXNativeTarget "修改项目末班" */;
+			buildPhases = (
+				A3A5997D1F1B583000074138 /* Sources */,
+				A3A5997E1F1B583000074138 /* Frameworks */,
+				A3A5997F1F1B583000074138 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "修改项目末班";
+			productName = "修改项目末班";
+			productReference = A3A599811F1B583000074138 /* 修改项目末班 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A3A598EB1F1AE7E700074138 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = sunny;
+				TargetAttributes = {
+					A3A598F21F1AE7E700074138 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+					A3A599001F1AEF1600074138 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+					A3A5990B1F1AF61700074138 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+					A3A599161F1B001300074138 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+					A3A599211F1B072600074138 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+					A3A5992C1F1B163800074138 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+					A3A599371F1B2B0F00074138 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+					A3A599421F1B3AF200074138 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+					A3A5994D1F1B3FEE00074138 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+					A3A599641F1B4A2700074138 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+					A3A5996F1F1B4DDB00074138 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+					A3A599801F1B583000074138 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = A3A598EE1F1AE7E700074138 /* Build configuration list for PBXProject "day2" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = A3A598EA1F1AE7E700074138;
+			productRefGroup = A3A598F41F1AE7E700074138 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A3A598F21F1AE7E700074138 /* day2 */,
+				A3A599001F1AEF1600074138 /* NSString的使用 */,
+				A3A5990B1F1AF61700074138 /* 练习 */,
+				A3A599161F1B001300074138 /* 结构体作为对象的属性 */,
+				A3A599211F1B072600074138 /* 对象作为方法的参数传递 */,
+				A3A5992C1F1B163800074138 /* #pragma mark基本使用 */,
+				A3A599371F1B2B0F00074138 /* 对象作为方法的参数连续传递 */,
+				A3A599421F1B3AF200074138 /* 对象作为返回值类型 */,
+				A3A5994D1F1B3FEE00074138 /* OC多文件开发 */,
+				A3A599641F1B4A2700074138 /* fight */,
+				A3A5996F1F1B4DDB00074138 /* 匿名对象 */,
+				A3A599801F1B583000074138 /* 修改项目末班 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A3A598EF1F1AE7E700074138 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3A598F71F1AE7E700074138 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A598FD1F1AEF1600074138 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3A599041F1AEF1600074138 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A599081F1AF61700074138 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A599131F1B001300074138 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3A5991A1F1B001300074138 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A5991E1F1B072600074138 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3A599251F1B072600074138 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A599291F1B163800074138 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3A599301F1B163900074138 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A599341F1B2B0F00074138 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3A5993B1F1B2B0F00074138 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A5993F1F1B3AF200074138 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3A599461F1B3AF200074138 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A5994A1F1B3FEE00074138 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3A599601F1B45D000074138 /* Shop.m in Sources */,
+				A3A5995A1F1B43D600074138 /* Gun.m in Sources */,
+				A3A599511F1B3FEE00074138 /* main.m in Sources */,
+				A3A5995D1F1B44DC00074138 /* Soldier.m in Sources */,
+				A3A599571F1B436900074138 /* Clip.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A599611F1B4A2700074138 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A5996C1F1B4DDB00074138 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3A599791F1B4E3900074138 /* Person.m in Sources */,
+				A3A5997C1F1B53DD00074138 /* iPhone.m in Sources */,
+				A3A599731F1B4DDB00074138 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A3A5997D1F1B583000074138 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		A3A598F81F1AE7E700074138 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		A3A598F91F1AE7E700074138 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		A3A598FB1F1AE7E700074138 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A3A598FC1F1AE7E700074138 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A3A599051F1AEF1600074138 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A3A599061F1AEF1600074138 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A3A599111F1AF61700074138 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A3A599121F1AF61700074138 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A3A5991C1F1B001300074138 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A3A5991D1F1B001300074138 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A3A599271F1B072600074138 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A3A599281F1B072600074138 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A3A599321F1B163900074138 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A3A599331F1B163900074138 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A3A5993D1F1B2B0F00074138 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A3A5993E1F1B2B0F00074138 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A3A599481F1B3AF200074138 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A3A599491F1B3AF200074138 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A3A599531F1B3FEE00074138 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A3A599541F1B3FEE00074138 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A3A5996A1F1B4A2700074138 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A3A5996B1F1B4A2700074138 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A3A599751F1B4DDB00074138 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A3A599761F1B4DDB00074138 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A3A599861F1B583000074138 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A3A599871F1B583000074138 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A3A598EE1F1AE7E700074138 /* Build configuration list for PBXProject "day2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3A598F81F1AE7E700074138 /* Debug */,
+				A3A598F91F1AE7E700074138 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A3A598FA1F1AE7E700074138 /* Build configuration list for PBXNativeTarget "day2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3A598FB1F1AE7E700074138 /* Debug */,
+				A3A598FC1F1AE7E700074138 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A3A599071F1AEF1600074138 /* Build configuration list for PBXNativeTarget "NSString的使用" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3A599051F1AEF1600074138 /* Debug */,
+				A3A599061F1AEF1600074138 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A3A599101F1AF61700074138 /* Build configuration list for PBXNativeTarget "练习" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3A599111F1AF61700074138 /* Debug */,
+				A3A599121F1AF61700074138 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A3A5991B1F1B001300074138 /* Build configuration list for PBXNativeTarget "结构体作为对象的属性" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3A5991C1F1B001300074138 /* Debug */,
+				A3A5991D1F1B001300074138 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A3A599261F1B072600074138 /* Build configuration list for PBXNativeTarget "对象作为方法的参数传递" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3A599271F1B072600074138 /* Debug */,
+				A3A599281F1B072600074138 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A3A599311F1B163900074138 /* Build configuration list for PBXNativeTarget "#pragma mark基本使用" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3A599321F1B163900074138 /* Debug */,
+				A3A599331F1B163900074138 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A3A5993C1F1B2B0F00074138 /* Build configuration list for PBXNativeTarget "对象作为方法的参数连续传递" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3A5993D1F1B2B0F00074138 /* Debug */,
+				A3A5993E1F1B2B0F00074138 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A3A599471F1B3AF200074138 /* Build configuration list for PBXNativeTarget "对象作为返回值类型" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3A599481F1B3AF200074138 /* Debug */,
+				A3A599491F1B3AF200074138 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A3A599521F1B3FEE00074138 /* Build configuration list for PBXNativeTarget "OC多文件开发" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3A599531F1B3FEE00074138 /* Debug */,
+				A3A599541F1B3FEE00074138 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A3A599691F1B4A2700074138 /* Build configuration list for PBXNativeTarget "fight" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3A5996A1F1B4A2700074138 /* Debug */,
+				A3A5996B1F1B4A2700074138 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A3A599741F1B4DDB00074138 /* Build configuration list for PBXNativeTarget "匿名对象" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3A599751F1B4DDB00074138 /* Debug */,
+				A3A599761F1B4DDB00074138 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A3A599851F1B583000074138 /* Build configuration list for PBXNativeTarget "修改项目末班" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3A599861F1B583000074138 /* Debug */,
+				A3A599871F1B583000074138 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A3A598EB1F1AE7E700074138 /* Project object */;
+}
